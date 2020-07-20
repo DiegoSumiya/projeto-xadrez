@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Projeto_Xadrez.Tabuleiro
+namespace tabuleiro
 {
     enum Cor
     {
@@ -12,6 +12,6 @@ namespace Projeto_Xadrez.Tabuleiro
         Azul,
         Vermelho,
         Verde,
-        Laranja,
+        Laranja
     }
 }
